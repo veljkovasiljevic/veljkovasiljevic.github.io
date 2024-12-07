@@ -2,19 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **Veljko**, _Vasiljevic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./https://github.com/veljkovasiljevic/veljkovasiljevic.github.io).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Nešto (Naslov)
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
+## Nešto drugo (Pod naslov)
 
 > This is a blockquote following a header.
 >
