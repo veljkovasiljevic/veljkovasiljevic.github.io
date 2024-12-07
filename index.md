@@ -4,7 +4,7 @@ layout: default
 
 Text can be **Veljko**, _Vasiljevic_, or ~~strikethrough~~.
 
-[Link to another page](./https://github.com/veljkovasiljevic/veljkovasiljevic.github.io).
+[Moja stranica](https://veljkovasiljevic.github.io/).
 
 There should be whitespace between paragraphs.
 
